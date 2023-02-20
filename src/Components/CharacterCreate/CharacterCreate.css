@@ -1,0 +1,22 @@
+form {
+	display: flex;
+	flex-direction: column;
+  }
+  
+  label {
+	display: inline-block;
+	margin-bottom: 10px;
+  }
+  
+  input,
+  select {
+	display: inline-block;
+	margin-right: 10px;
+	width: 150px;
+	float:right;
+  }
+  
+  button {
+	margin-top: 10px;
+  }
+
